@@ -15,7 +15,7 @@ i gruppen "dugnaden" for å kunne benytte admin-sidene).
 
 Admin-sidene finnes under:
 
-http://localhost:8080/dughttp://localhost:8080/dugnaden/naden/index.php?do=admin
+http://localhost:8080/dugnaden/index.php?do=admin
 
 ### Database under utvikling
 
